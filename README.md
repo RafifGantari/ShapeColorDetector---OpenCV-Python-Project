@@ -20,8 +20,8 @@
 ---
 
 ## 📸 Sample Output
-![Example Output 1](new%20folder/example%20output.png)
-![Example Output 2](new%20folder/example%20output%202.0.png)
+![Example Output 1](outputs/exampleoutput.png)
+![Example Output 2](outputs/exampleoutput2.0.png)
 ---
 
 ## 💡 Technologies Used
