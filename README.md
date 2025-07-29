@@ -21,7 +21,7 @@
 
 ## 📸 Sample Output
 > Replace with your own screenshot or video frame  
-![Preview](your-image-link-here)
+![Preview](example output.png)
 
 ---
 
