@@ -20,9 +20,8 @@
 ---
 
 ## 📸 Sample Output
-> Replace with your own screenshot or video frame  
-![Preview](example output.png)
-
+![Example Output 1](example%20output.png)
+![Example Output 2](example%20output%202.0.png)
 ---
 
 ## 💡 Technologies Used
